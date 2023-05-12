@@ -51,7 +51,7 @@ Voici quelques exemples pratiques :
 - [jq](https://github.com/stedolan/jq/releases)
 - [htmlq](https://github.com/mgdm/htmlq/releases)
 
-## make
+## make (Makefile)
 
 > Gardez à l'esprit que vous pouvez facilement ajouter `make`, mais il ne vient pas empaqueté avec toute la chaîne d'outils de construction UNIX standard, vous devrez donc vous assurer que ceux-ci sont installés *et* avoir le bon PATH, ou vous rencontrerez des messages d'erreur sans fin.
 
