@@ -10,7 +10,7 @@ Comme `bin` est sur le PATH, il sera automatiquement disponible pour Git Bash.
 *Note:* De nombreux utilitaires interactifs, tels que `python`, `ipython` ou `nano`, ne s'affichent pas correctement avec le terminal mintty de Git Bash.
 Essayez de les invoquer avec `winpty` à la place, par exemple `winpty ipython` fonctionnera bien.
 
-##Liste d'utilitaires à ajouter:
+## Liste d'utilitaires à ajouter:
 
 ### Wget 
 
